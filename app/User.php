@@ -27,3 +27,5 @@ class User extends Authenticatable
         'password', 'remember_token',
     ];
 }
+
+// bapa tadi atos di git tapi namina sanes wulan janten ieu di git deui tapi ditambahan komentar
